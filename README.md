@@ -8,9 +8,10 @@ positional arguments:
 
 optional arguments:
   -h, --help  show this help message and exit
-
-
 ```
+
+## Dependencies
+The only libraries I'm using are **argparse** and **pycosat**.
 
 ## Input
 
